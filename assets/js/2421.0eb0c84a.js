@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_dobot_plus_doc=self.webpackChunk_dobot_plus_doc||[]).push([[2421],{12421:(e,c,s)=>{s.d(c,{createArchitectureServices:()=>t.S});var t=s(86035);s(95918)}}]);
